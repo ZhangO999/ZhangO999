@@ -8,3 +8,5 @@ sdlkfjgsadlkfhjjjj
 *Designing Data-Intensive Applications* — Martin Kleppmann
 
 <br clear="left" />
+
+Can be reached via [ozha8307@uni.sydney.edu.au](mailto:ozha8307@uni.sydney.edu.au)
