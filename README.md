@@ -10,7 +10,7 @@ Can be reached via [ozha8307@uni.sydney.edu.au](mailto:ozha8307@uni.sydney.edu.a
 
 **Currently reading**
 
-Designing Data-Intensive Applications* — Martin Kleppmann
+*Designing Data-Intensive Applications* — Martin Kleppmann
 
 <br clear="left" />
 
